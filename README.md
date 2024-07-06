@@ -31,17 +31,17 @@ Após a instalação dos requisitos: siga os passos abaixo:
     ```
 ## Endpoints
 
-* Criar Produto<br>
+* Criar TODO<br>
 POST /todos
 
-* Listar Produtos<br>
+* Listar TODO<br>
 GET /todos
 
-* Buscar Produto por ID<br>
+* Buscar TODO por ID<br>
 GET /todos
 
-* Atualizar Produto<br>
+* Atualizar TODO<br>
 PUT /todos
 
-* Excluir Produto<br>
+* Excluir TODO<br>
 DELETE /todos/{id}
